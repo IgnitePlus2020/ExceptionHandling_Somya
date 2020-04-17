@@ -1,0 +1,6 @@
+Enter zip code to check availability : 123
+Caught exception
+Not yet delivering at 123
+*******************************************************
+Enter zip code to check availability : 654
+Delivery available in your area!
